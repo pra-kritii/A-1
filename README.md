@@ -1,28 +1,20 @@
-# A-1
+# Python Basic Tasks
 
-#Task 1
-input() → takes input from the user as a string.
-
-int() → converts that string into an integer.
-
-a → stores the first number.
-
-b → stores the second number.
-
-Then it performs basic arithmetic operations:
-
-Addition → a+b
-
-Subtraction → a-b
-
-Multiplication → a*b
-
-Division → a/b (gives float result, even if both are integers).
+This repository contains simple Python programs that demonstrate:
+1. Performing arithmetic operations on user input.  
+2. Taking user input for first and last name and displaying a personalized greeting.  
 
 
-#Task 2
-x → stores the user’s first name (string).
+## 📝 Task Descriptions
 
-y → stores the user’s last name (string).
+### Task 1: Arithmetic Operations
+- Prompts the user to enter two numbers.  
+- Performs and displays:
+  - Addition
+  - Subtraction
+  - Multiplication
+  - Division
 
-print() → displays a welcome message by joining them.
+### Task 2: Greeting Message
+-Prompts the user to enter their first name and last name.
+-Displays a personalized welcome message.
