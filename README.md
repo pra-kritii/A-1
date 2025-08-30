@@ -16,5 +16,6 @@ This repository contains simple Python programs that demonstrate:
   - Division
 
 ### Task 2: Greeting Message
--Prompts the user to enter their first name and last name.
--Displays a personalized welcome message.
+- Prompts the user to enter their first name and last name.  
+- Displays a personalized welcome message.
+
